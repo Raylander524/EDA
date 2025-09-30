@@ -1,0 +1,7 @@
+
+# Ignorar pastas de build
+/.venv/
+/lib/
+
+# Ignorar arquivos de log
+*.csv
