@@ -8,4 +8,5 @@
 # Ignorar arquivos de log
 *.csv
 *.gephi
+*.ipynb_checkpoints
 
