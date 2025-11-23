@@ -4,6 +4,7 @@
 /lib/
 /imagens/
 /grafos/
+/gephi/
 
 # Ignorar arquivos de log
 *.csv
