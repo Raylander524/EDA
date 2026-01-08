@@ -10,4 +10,5 @@
 *.csv
 *.gephi
 *.ipynb_checkpoints
+*.env
 
